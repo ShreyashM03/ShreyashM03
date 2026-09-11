@@ -66,10 +66,32 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyashM03/ShreyashM03/main/images/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyashM03/ShreyashM03/main/images/breakout-light.svg">
-  <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/ShreyashM03/ShreyashM03/main/images/breakout-light.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="example/dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="example/light.svg"
+  />
+  <img alt="Breakout Game" src="example/light.svg" />
 </picture>
+
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="example/custom-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="example/custom-light.svg"
+  />
+  <img alt="Breakout Game" src="example/custom-light.svg" />
+</picture>
+
+
 
 ---
 ## 📊 GitHub Stats
