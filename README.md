@@ -61,6 +61,16 @@
 
 ## 🐍 Contribution Snake ![snake gif](https://github.com/ShreyashM03/ShreyashM03/blob/output/github-snake-dark.svg) ![Visitor Count](https://komarev.com/ghpvc/?username=ShreyashM03&color=green&style=flat-square)
 
+
+---
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyashM03/ShreyashM03/main/images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyashM03/ShreyashM03/main/images/breakout-light.svg">
+  <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/ShreyashM03/ShreyashM03/main/images/breakout-light.svg">
+</picture>
+
 ---
 ## 📊 GitHub Stats
 
