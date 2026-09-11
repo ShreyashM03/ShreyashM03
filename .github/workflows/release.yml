@@ -1,0 +1,54 @@
+name: release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "New version to release"
+        default: "0.0.1"
+        required: true
+        type: string
+      description:
+        description: "Release description"
+        required: false
+        type: string
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build project
+        run: npm run build
+
+      - name: Bump package version
+        run: |
+          npm version --no-git-tag-version --new-version ${{ github.event.inputs.version }}
+
+      - name: Commit and push release
+        run: |
+          VERSION=${{ github.event.inputs.version }}
+
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+          git add package.json dist
+          git commit -m "Release v$VERSION"
+
+          git tag "v$VERSION"
+          git push origin main --tags
+
+      - name: Create GitHub Release
+        uses: ncipollo/release-action@v1.19.1
+        with:
+          tag: v${{ github.event.inputs.version }}
+          body: ${{ github.event.inputs.description }}
