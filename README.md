@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shreyash</h1>
-<h3 align="center">🚀 DevOps Engineer | AWS | Kubernetes | Terraform</h3>
+
+
+<p align="center">
+<img width="956" height="395" alt="Pixel_art_video_game_menu_20260911110314" src="https://github.com/user-attachments/assets/fe074436-3cea-4360-8084-e40065538cc1" />
+</p>
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+CI%2FCD+Pipelines;Building+Scalable+%26+Secure+Systems&center=true&width=520&height=45">
