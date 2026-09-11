@@ -7,19 +7,42 @@
 
 ---
 
-## 👨‍💻 About Me
 
-- 🚀 Passionate about **DevOps & Cloud Engineering**
-- ☁️ Working with **AWS, Docker, Kubernetes, Terraform**
-- 🔧 Love building **scalable & production-ready infrastructure**
-- 🎯 Goal: Become a **Production-Level DevOps Engineer**
-- 📍 India | Open to opportunities
+<h2 align="center">👩‍💻 About Me</h2>
+
+<table align="center">
+<tr>
+
+<td width="65%" valign="top">
+
+- 🚀 Passionate about DevOps & Cloud Engineering.
+- ☁️ Working with AWS, Docker, Kubernetes, Terraform.
+- 🔧 Love building scalable & production-ready infrastructure.
+- 🎯 Goal: Become a Production-Level DevOps Engineer.
+- ✨ Always chasing the next idea worth building.
+- 📍 India | Open to opportunities.
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img  alt="ChatGPT Image Sep 11, 2026, 11_29_29 AM" src="https://github.com/user-attachments/assets/9b6e20a3-50c0-4de3-8010-d50fddbc0240" />
+  
+
+</td>
+
+</tr>
+</table>
+
+
+
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,jenkins,git,github,bash" />
 </p>
 
