@@ -66,7 +66,6 @@
 
 
 
-## My Contribution Graph
 
 ## My Contribution Graph
 
@@ -84,7 +83,10 @@
     src="https://raw.githubusercontent.com/ShreyashM03/ShreyashM03/output/pacman-contribution-graph.svg"
   />
 </picture>
+
+
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
