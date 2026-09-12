@@ -1,36 +1,43 @@
-name: Generate Breakout Game SVG
+name: generate breakout svg
 
 on:
   schedule:
-    # Runs automatically every day at midnight
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows you to run this manually at any time
-  push:
-    branches:
-      - main
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
 
 jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
+  generate-svg:
     permissions:
       contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Breakout SVG
-        uses: cyprieng/github-breakout@v1 
+      - name: generate SVG
+        uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output_path: ./output/
 
-      - name: Deploy SVG to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Move generated SVGs to temp
+        run: |
+          mkdir -p /tmp/breakout-images
+          mv output/light.svg /tmp/breakout-images/breakout-light.svg
+          mv output/dark.svg /tmp/breakout-images/breakout-dark.svg
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and force-push SVGs to target branch
+        run: |
+          git checkout --orphan github-breakout
+          git rm -rf .
+          mkdir images
+          mv /tmp/breakout-images/* images/
+          git add images
+          git commit -m "chore: update GitHub breakout SVGs" || echo "No changes to commit"
+          git push --force origin github-breakout
