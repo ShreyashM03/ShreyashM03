@@ -65,30 +65,11 @@
 ---
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="example/dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="example/light.svg"
-  />
-  <img alt="Breakout Game" src="example/light.svg" />
-</picture>
-
-
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="example/custom-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="example/custom-light.svg"
-  />
-  <img alt="Breakout Game" src="example/custom-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+  <img alt="GitHub Contributions Breakout Game" src="https://githubusercontent.com" />
 </picture>
 
 
