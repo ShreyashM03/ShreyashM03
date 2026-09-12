@@ -67,11 +67,16 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
-  <img alt="GitHub Contributions Breakout Game" src="https://githubusercontent.com" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="{YOUR IMAGE URL}/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="{YOUR IMAGE URL}/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="{YOUR IMAGE URL}/images/breakout-light.svg" />
 </picture>
-
 
 
 ---
