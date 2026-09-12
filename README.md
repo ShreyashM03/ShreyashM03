@@ -66,18 +66,14 @@
 
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="{YOUR IMAGE URL}/images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="{YOUR IMAGE URL}/images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="{YOUR IMAGE URL}/images/breakout-light.svg" />
-</picture>
+## My Contribution Graph
 
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[ShreyashM03]/[ShreyashM03]/output/[game-name]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[ShreyashM03]/[ShreyashM03]/output/[game-name]-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[ShreyashM03]/[ShreyashM03]/output/[game-name]-contribution-graph.svg">
+</picture>
 
 ---
 ## 📊 GitHub Stats
