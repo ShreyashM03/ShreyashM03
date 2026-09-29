@@ -87,25 +87,28 @@
 
 ---
 
-## 📊 GitHub Stats
+<details>
+  <summary>📊 GitHub Stats </summary>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShreyashM03&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashM03&theme=tokyonight" />
 </p>
+ </details>
 
----
+<details> <summary>🧠 Currently Learning</summary>
 
-## 🧠 Currently Learning
 
-- 🔄 CI/CD Pipelines (Jenkins & GitHub Actions)
-- 📦 Kubernetes Advanced Concepts
-- 📊 Monitoring (Prometheus & Grafana)
-- 🔐 DevSecOps Best Practices
+-  CI/CD Pipelines (Jenkins & GitHub Actions)
+-  Kubernetes Advanced Concepts
+-  Monitoring (Prometheus & Grafana)
+-  DevSecOps Best Practices
+</details>
 
----
 
-## 📈 DevOps Roadmap
+<details>
+  <summary>📈 DevOps Roadmap</summary>
 
 - ✅ AWS Basics  
 - ✅ Linux  
@@ -114,41 +117,38 @@
 - ✅ Terraform  
 - 🔄 CI/CD (In Progress)
 - 🔄 Monitoring & Observability
-
----
-
-
-## 📈 Other Tools 
-
-- Argo CD : Argo CD is a declarative, Kubernetes-native Continuous Delivery (CD) tool designed to implement GitOps workflows.
-  
-- SonarQube : SonarQube is an open-source, self-hosted platform developed by Sonar for continuous inspection of code quality. (code quality)
-  
-- Apache Maven : Apache Maven is a powerful build automation and project management tool used primarily for Java applications.
-  
-- Trivy : Trivy is an open-source, fast, and comprehensive security scanner developed by Aqua Security. (To Scan Docker images)
-
----
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shreyash-moundekar-devops" target="blank">LinkedIn</a> |
-  <!--a href="https://naukri.com/your-profile" target="blank">Naukri</a!--> |
-  <a href="mailto:ShreyashMoundekar28@gmail.com"> Email Me</a>
-</p>
+</details>
 
 
----
-
-## ⭐️ Profile Highlights
+<details>
+  <summary>⭐Profile Highlights</summary>
 
 ✔ Real-world DevOps Projects
 ✔ CI/CD Pipeline Implementation
 ✔ Kubernetes & Cloud Deployment
 ✔ DevSecOps (Security + Automation)
 
+</details>
+
+<details>
+  <summary>♟️</summary>
+  <br>
+  <p align='center'>
+    <a href='https://chess.com'>
+      ♟Playing Chess
+      <img align='center' src='https://shields.io>
+    </a>
+  </p>
+
+</details>
+
 ---
 
-💡 *"Automate everything. Scale anything. Secure everything."*
+## 🌐 Connect With Me
 
-⭐️ From [Shreyash](https://github.com/ShreyashM03)
+<p align="left">
+  <a href="https://www.linkedin.com/in/shreyash-moundekar-devops" target="_blank">LinkedIn</a> |
+  <a href="mailto:Shreyashm1103@gmail.com">Email Me</a>
+</p>
+
+
