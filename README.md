@@ -130,17 +130,7 @@
 
 </details>
 
-<details>
-  <summary>♟️</summary>
-  <br>
-  <p align='center'>
-    <a href='https://chess.com'>
-      ♟Playing Chess
-      <img align='center' src='https://shields.io>
-    </a>
-  </p>
 
-</details>
 
 ---
 
