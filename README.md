@@ -17,16 +17,21 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,jenkins,git,github,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,jenkins,git,github,bash,python,ansible,githubactions,gitlab,nginx,prometheus,grafana,sonarqub" />
 </p>
+
+
 ---
+
+
+
 <h2 align="center">👩‍💻Contribution Snake </h2>
 
 ![snake gif](https://github.com/ShreyashM03/ShreyashM03/blob/output/github-snake-dark.svg) ![Visitor Count](https://komarev.com/ghpvc/?username=ShreyashM03&color=green&style=flat-square)
 
 
----
 
+---
 
 
 <details>
@@ -74,7 +79,7 @@
 
 
 
-
+---
 
 
 ## 🌐 Connect With Me <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
