@@ -1,91 +1,33 @@
-<h1 align="center">Hi 👋, I'm Shreyash</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=monospace&weight=500&size=30&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Shreyash+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" />
+  </a>
+</h3>
 
 
-<p align="center">
-<img width="956" height="395" alt="Pixel_art_video_game_menu_20260911110314" src="https://github.com/user-attachments/assets/fe074436-3cea-4360-8084-e40065538cc1" />
+ 
+<p align="center" >
+  <samp>
+    Hey, My name is <em>Shreyash Moundekar</em>an DevOps Engineer  passionate about Cloud Computing, Infrastructure Automation, CI/CD, Containerization, and Linux. I enjoy building hands-on projects and learning by implementing real-world DevOps workflows using AWS, Docker, Kubernetes, Terraform, Jenkins, Git, and Linux. My current focus is on developing strong practical skills in cloud infrastructure, Infrastructure as Code, CI/CD automation, container orchestration, networking, and deployment automation. I have worked on hands-on projects such as deploying a containerized application on Amazon EKS using Terraform, while continuously improving my understanding of AWS services and DevOps tools. I believe in learning by building, troubleshooting, documenting, and continuously improving. My goal is to grow into a reliable DevOps Engineer who can help teams automate infrastructure, streamline software delivery, and build scalable and dependable cloud environments. 🚀
+
+  </samp>
+  <br/>
 </p>
-
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+CI%2FCD+Pipelines;Building+Scalable+%26+Secure+Systems&center=true&width=520&height=45">
-</p>
-
----
-
-
-<h2 align="center">👩‍💻 About Me</h2>
-
-<table align="center">
-<tr>
-
-<td width="65%" valign="top">
-
-- 🚀 Passionate about DevOps & Cloud Engineering.
-- ☁️ Working with AWS, Docker, Kubernetes, Terraform.
-- 🔧 Love building scalable & production-ready infrastructure.
-- 🎯 Goal: Become a Production-Level DevOps Engineer.
-- ✨ Always chasing the next idea worth building.
-- 📍 India | Open to opportunities.
-
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img  alt="ChatGPT Image Sep 11, 2026, 11_29_29 AM" src="https://github.com/user-attachments/assets/9b6e20a3-50c0-4de3-8010-d50fddbc0240" />
-  
-
-</td>
-
-</tr>
-</table>
-
-
-
-
-
----
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,jenkins,git,github,bash" />
 </p>
-
 ---
+<h2 align="center">👩‍💻Contribution Snake </h2>
 
-
-
-
-
-## 🐍 Contribution Snake ![snake gif](https://github.com/ShreyashM03/ShreyashM03/blob/output/github-snake-dark.svg) ![Visitor Count](https://komarev.com/ghpvc/?username=ShreyashM03&color=green&style=flat-square)
+![snake gif](https://github.com/ShreyashM03/ShreyashM03/blob/output/github-snake-dark.svg) ![Visitor Count](https://komarev.com/ghpvc/?username=ShreyashM03&color=green&style=flat-square)
 
 
 ---
 
 
-
-
-## My Contribution Graph
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ShreyashM03/ShreyashM03/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ShreyashM03/ShreyashM03/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/ShreyashM03/ShreyashM03/output/pacman-contribution-graph.svg"
-  />
-</picture>
-
-
----
 
 <details>
   <summary>📊 GitHub Stats </summary>
@@ -132,13 +74,22 @@
 
 
 
----
 
-## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shreyash-moundekar-devops" target="_blank">LinkedIn</a> |
-  <a href="mailto:Shreyashm1103@gmail.com">Email Me</a>
-</p>
+
+## 🌐 Connect With Me <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
+
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shreyash-moundekar-devops) 👨🏻‍💻 <br>
+  ⦿ Shoot Me an [Email](mailto:shreyashm1103@gmail.com) 💌 <br>
+<!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
+
+ -->
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=7C3AED&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+%3A)" alt="Typing SVG" /></a></p>
+
+
+
 
 
